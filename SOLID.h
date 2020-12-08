@@ -29,7 +29,7 @@ public:
     {
         return width * 2 + height * 2;
     }
-    void showFigureType()
+    void showFigureType() 
     {
         std::cout << "Четырёхугольник" << std::endl;
     }
